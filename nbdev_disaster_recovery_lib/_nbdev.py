@@ -25,6 +25,6 @@ modules = ["core.py",
 
 doc_url = "https://Minh.github.io/nbdev_disaster_recovery_lib/"
 
-git_url = "https://github.com/Minh/nbdev_disaster_recovery_lib/tree/{branch}/"
+git_url = "https://github.com/Minh/nbdev_disaster_recovery_lib/tree/master/"
 
 def custom_doc_links(name): return None
